@@ -1,8 +1,8 @@
 
 const seedX = Math.random()
 const seedY = Math.random()
-const radX = 0.7
-const radY = 0.6
+const radX = 0.3
+const radY = 0.8
 let ampX
 let ampY
 
